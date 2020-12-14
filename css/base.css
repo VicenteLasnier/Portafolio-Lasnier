@@ -43,7 +43,7 @@ body {
 
 .demo-3 {
 	--color-text: #fcfcfc;
-	--color-bg: #120605;
+	--color-bg: #200b09;
 	--color-link: #8f8f76;
 	--color-link-hover: #fff;
 	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
@@ -155,7 +155,7 @@ a:focus {
 	grid-area: header;
 	margin: 0 0 1rem;
 	font-size: 100px;
-	font-weight: 4000;
+	font-weight: 400;
 }
 
 .credits {
@@ -320,7 +320,7 @@ a:focus {
 	background-size: cover;
 	background-position: 50% 0%;
 	will-change: transform;
-	opacity: 0.8;
+	opacity: 1;
 }
 
 .content__item-img--t1 {
